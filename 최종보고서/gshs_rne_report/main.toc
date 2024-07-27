@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {content}{요약}{i}{Doc-Start}%
+\contentsline {section}{\numberline {1}서론}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}연구 필요성 및 목적}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}이론적 배경}{1}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}베지어 곡선과 곡면}{1}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}볼록 집합}{2}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}뉴턴-랩슨 방법}{3}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}obj와 mtl}{3}{subsubsection.1.2.4}%
+\contentsline {section}{\numberline {2}연구 과정}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}연구 질문}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}분할 방법}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}근사 방법}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}오차함수}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}RGB 저장}{7}{subsection.2.5}%
+\contentsline {section}{\numberline {3}연구 결과}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}분할 방법}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}근사 방법}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}오차함수}{12}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}충분한 근사 가능성}{12}{subsection.3.4}%
+\contentsline {section}{\numberline {4}결론}{14}{section.4}%
