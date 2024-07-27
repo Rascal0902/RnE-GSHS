@@ -1,0 +1,19 @@
+x*cos(ceta)-z*sin(ceta)
+y*cos(pi)-x*sin(pi)*sin(ceta)-z*cos(ceta)*sin(pi)
+
+
+
+
+
+cos(ceta)             0           -sin(ceta)
+-sin(pi)sin(ceta)    cos(pi)     -cos(ceta)sin(pi)
+cos(pi)sin(ceta)    sin(pi)      cos(pi)cos(ceta)
+
+
+
+        
+ 1        0          0                             cos(ceta)      0        -sin(ceta)
+    
+ 0       cos(pi)   -sin(pi)                       0               1         0        
+         
+0       sin(pi)    cos(pi)                       sin(ceta)      0         cos(ceta)   

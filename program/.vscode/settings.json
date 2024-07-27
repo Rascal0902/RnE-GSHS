@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\skyal\\Documents\\Processing\\libraries\\interfascia\\library\\interfascia.jar",
+        "c:\\Program Files\\processing\\core\\library\\core.jar"
+    ]
+}

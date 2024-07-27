@@ -1,0 +1,41 @@
+int count=0, count2=0,oneloop1=0,oneloop2=0,oneloop3=0,oneloop4=0,oneloop5=0,oneloop6=0,oneloop7=0,row=0,rowf=0,rown=0,Siz=1,ax=0,ay=0,az=64; //sphere Siz=1,ax=0,ay=0,az=64; //heart Siz=5,ax=0,ay=0,az=0
+int RMaterial=128, GMaterial=128, BMaterial=128,colorexits=-1,windowup=0,consolcheck=0,coordinateTRUE=1,Xcodelength=1,searchlength=0,itis=2,consoletempt=0;
+int win5outlength=1,win4length=0,N=10000,ex=0,fend=0,showend=0;
+int[][][] index=new int[100000][6][4];
+float[] A = new float[6];
+float[] fac=new float [15];
+float[] Tf=new float [5];
+float[] Ka=new float [5];
+float[] Kd=new float [5];
+float[] Ks=new float [5];
+float[] Ke=new float [5];
+float[]ray = new float[6];
+float[]Acir = new float[6];
+float[]r3D = new float [6];
+float[]u = new float[1000000];
+float[]v = new float[1000000]; 
+float[]vsh = new float [10000000];
+float[][] com=new float [21][21];
+float[][] obj=new float[100000][3];
+float[][] vervec=new float[100000][3];
+float[][]rayshow = new float [10][3];
+float[][]f=new float [10000000][9];
+float[][][] com2=new float[10][10][10];
+float[][][] S=new float[10][10][3];
+float[][][] SRGB=new float[10][10][3];
+float[][][][] T=new float[5][5][5][3];
+float[][][]show =new float [10][1000000][3];
+float ceta, pi, size=1;
+float pi_barx=50, pi_bary=83, ceta_barx=50, ceta_bary=145, size_barx=50, size_bary=200,RMatrialx=50, RMatrialy=375, GMatrialx=100, GMatrialy=375, BMatrialx=150, BMatrialy=375;
+float lightxx=275, lightxy=325, lightyx=275, lightyy=325, lightzx=375, lightzy=325,lightcolorRx=50, lightcolorRy=600, lightcolorGx=50, lightcolorGy=650, lightcolorBx=50, lightcolorBy=700;
+float lightpowerx=50, lightpowery=750,lightpower=0, coordinateBW=1,lightx=128, lighty=128, lightz=128,lightcolorR=255,lightcolorG=255,lightcolorB=255,error=256;
+float Ns,Ni,d,Tr,illum;
+float zmn=200,zmx=-200,ep=0.5;
+String str="", ans=""; //str== search function string ans== found result return
+String[]data= new String [10000000];String[]data2= new String [1000000];//data,count==bzffile data2,count2==vertexfile
+String[] win4= new String [10000];String[] win5= new String [10000];String[] win5out= new String [10000]; 
+PImage img1,img2,img3,img4,img5,img6,img7,img8,img9,img10;
+vector [] p =new vector[1000000]; vector [][] b =new vector[3][3];
+ArrayStack Ast = new ArrayStack(1000000);
+ArrayStack Bst = new ArrayStack(1000000);
+ArrayStack Bstrange = new ArrayStack(1000000);
