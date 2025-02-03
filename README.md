@@ -22,3 +22,7 @@
 **step3**: open processing file whose file name is same as folder name.
 
 **step4**: run the project
+
+## License
+
+Only those who have been granted permission via this email(geonho050902@gmail.com) can use this repo.
