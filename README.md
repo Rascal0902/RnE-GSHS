@@ -1,7 +1,7 @@
-# GSHS_RnE
+# RnE-GSHS
 2020-2022 GSHS research repository
 
-## [Project Page](https://github.com/Rascal0902/GSHS_RnE) | [Paper](/paper/gshs_thesis/gshs_thesis.pdf)
+## [Project Page](https://github.com/Rascal0902/RnE-GSHS) | [Paper](/paper/gshs_thesis/gshs_thesis.pdf)
 
 <p align="center">
     <img src="/paper/gshs_thesis/image/WBS.png">
